@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "theme-gjm",
+  "description": "GJM Theme",
+  "author": {
+    "name": "Zack Boehm",
+    "email": "git@zackboehm.com",
+    "url": "https://zackboe.hm"
+  },
+  "resources": {
+    "css": true
+  },
+  "licence": "",
+  "url": "https://github.com/zackboe/keeweb-theme-gjm",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwA6NDhyWiwaLmR3pwPfigjOHBCxVWhemQFV8oGuUBt3LvCZekjCuunXj0inehDlt7beh6cwKqy5qLmtNwSnnNt8p23qBUQc8UuaPTl7mT0970/NbTbhrmrWOpQGooksVVeH/dp1HaSEV7tS9L7DZZfhpY1iPys1TyFfXbcqko7teL9xLko1cDnEuWwFpNcIZ0XFQ76Aq7KtffyzSZAaKyu767HtGwh+qd95TABZVKMdT7VePLbvUB+bGPaa4D+LYlIOuWNmT7wqy3Aea6p0jW9Ni9bzcsVnPMlj64QJmWS3fIBz89vSBP681qb4tSYuX3iMrDaxYLoF5yHw8RMQEEwIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "gjm",
+    "title": "gjm"
+  }
+}
